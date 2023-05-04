@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #98D8AA;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:azure;
+  }
+
+.container {
+    width: 50%;
+    max-width: 1200px;
+    margin: 200px;
+    margin-right: 0;
+    padding: 45px;
+    background-color: #F3E99F;
+  }
+
+  .container h1 red {
+    color: #FF6D60;
+  }
+
+  .containerFoot {
+    width: 33%; 
+    float: left; 
+    line-height: 50%;
+    box-sizing: border-box; 
+  }
+
+  img {
+    object-fit: fill;
+  }
+
+.containerImage {
+    width: 50%;
+    max-width: 1200px; 
+    margin: 200px;
+    margin-left: 0;
+ }
